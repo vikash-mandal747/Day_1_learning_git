@@ -1,0 +1,1 @@
+print("hello students of masai, welcome in github Day1")
